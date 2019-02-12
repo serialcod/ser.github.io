@@ -1,0 +1,14 @@
+Package: <SERIAL>
+Version: <0.1>
+Architecture: iphoneos-arm
+Maintainer: رمز تسلسلي‫.‬deb
+Depends: <bundleids>
+Filename: debs//<deb>
+Size: <deb in bytes>
+MD5sum: <md5 hash of deb>
+SHA1: <sha1 hash of deb>
+SHA256: <sha256 of deb>
+Section: <section on your repo>
+Description: <description>
+Author: Yourname <email (put in <>)>
+Name: SERIALCODE-UP
